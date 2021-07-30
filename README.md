@@ -17,5 +17,7 @@
 TonaSmith/TonaSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-这是我的Github项目地址，欢迎你的来访。
-致力于用最省钱的办法打造永不停机的博客！
+- 这是我的Github项目地址，欢迎你的来访。
+- 致力于用最省钱的办法打造永不停机的博客！
+- 也不知道什么时候退出计算机的圈子啦 ~
+- 能遇到你们一帮大佬也是幸运啊！
