@@ -1,24 +1,14 @@
-- 👋 Hi, I’m @TonaSmith and you also can call me “卧龙先生”
-- I am a student of Shandong University of Finance and Economics. Majoring in finance, a programming enthusiast
+-👋嗨，我是TonaSmith，你也可以叫我"卧龙先生"
 
-- 👀 I’m interested in ...
-- Linux, PHP, Python and other programming languages ​​are my favorites
+-💞️我目前已经毕业工作，主业审计，热衷编程
 
-- 🌱 I’m currently learning ...
-- No Learning....HHHH,a very lazy people!
+-👀Linux、PHP、Python等编程语言是我的最爱
 
-- 💞️ I’m looking to collaborate on ...
-- I'm thinking now
+-🌱我目前正在学习Julia数据分析、Arduino物联网、树莓派Linux…
 
-- 📫 How to reach me ...
-- Mailto：warnerjulia866@gmail.com
-- Blog:caoyongzhuo.cn
+-📫怎么联系我…
+- Mailto: warnerjulia866@gmail.com
+- 博客：https://caoyongzhuo.cn
 
-<!---
-TonaSmith/TonaSmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- 这是我的Github项目地址，欢迎你的来访。
-- 致力于用最省钱的办法打造永不停机的博客！
-- 也不知道什么时候退出计算机的圈子啦 ~
-- 能遇到你们一帮大佬也是幸运啊！
+- 这是我的Github项目地址，更多资讯请来访我的博客！
+
